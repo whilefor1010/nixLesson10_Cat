@@ -5,9 +5,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-
-public class AppTest 
-{
+public class AppTest{
 
     final Cat Kuzja = new Cat("grrrey", 4.3, "amazing");
     final Cat Fanja = new Cat("persik", 8.4, "vellikolepniy");
@@ -67,3 +65,5 @@ public class AppTest
     }
 
 }
+
+
